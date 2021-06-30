@@ -1,8 +1,8 @@
 @font-face {
   font-family: material-icons;
-  src: url(../fonts/material-icons.ttf?xdbxjz) format("truetype"),
-    url(../fonts/material-icons.woff?xdbxjz) format("woff"),
-    url(../fonts/material-icons.svg?xdbxjz#material-icons) format("svg");
+  src: url(https://cdn.jsdelivr.net/gh/mengwenbo/Assets@master/CE/fonts/material-icons.ttf?xdbxjz) format("truetype"),
+    url(https://cdn.jsdelivr.net/gh/mengwenbo/Assets@master/CE/fonts/material-icons.woff?xdbxjz) format("woff"),
+    url(https://cdn.jsdelivr.net/gh/mengwenbo/Assets@master/CE/fonts/material-icons.svg?xdbxjz#material-icons) format("svg");
   font-weight: 400;
   font-style: normal;
   font-display: block;
